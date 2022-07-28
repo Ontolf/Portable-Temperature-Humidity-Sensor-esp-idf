@@ -10,9 +10,9 @@
       
 | **Name** | **Description** | **Voltage** | **Quantity** |
 |------|-------------|:-------:|:--------:|
-| DHT22 | Temperature & Humidity Sensor | 5V | 1 |
-| Capacitive Soil, Moisture Sensor v1.2 | Moisture Sensor | 5V | 1 |
-| OLED display SSD1306 | Small display, controlled with I^2C | 5V | 1 |
+| DHT22 | Temperature & Humidity Sensor | 3V | 1 |
+| Capacitive Soil, Moisture Sensor v1.2 | Moisture Sensor | 1.5V | 1 |
+| OLED display SSD1306 | Small display, controlled with I^2C | 3V | 1 |
 | AAA Batery Pack | - | 6V | 1 |  
   
   | **Drawing** |
